@@ -1,0 +1,15 @@
+D:\Visual Studio Code\DesafioRPG\bin\Debug\net6.0\DesafioRPG.exe
+D:\Visual Studio Code\DesafioRPG\bin\Debug\net6.0\DesafioRPG.deps.json
+D:\Visual Studio Code\DesafioRPG\bin\Debug\net6.0\DesafioRPG.runtimeconfig.json
+D:\Visual Studio Code\DesafioRPG\bin\Debug\net6.0\DesafioRPG.dll
+D:\Visual Studio Code\DesafioRPG\bin\Debug\net6.0\ref\DesafioRPG.dll
+D:\Visual Studio Code\DesafioRPG\bin\Debug\net6.0\DesafioRPG.pdb
+D:\Visual Studio Code\DesafioRPG\obj\Debug\net6.0\DesafioRPG.csproj.AssemblyReference.cache
+D:\Visual Studio Code\DesafioRPG\obj\Debug\net6.0\DesafioRPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code\DesafioRPG\obj\Debug\net6.0\DesafioRPG.AssemblyInfoInputs.cache
+D:\Visual Studio Code\DesafioRPG\obj\Debug\net6.0\DesafioRPG.AssemblyInfo.cs
+D:\Visual Studio Code\DesafioRPG\obj\Debug\net6.0\DesafioRPG.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\DesafioRPG\obj\Debug\net6.0\DesafioRPG.dll
+D:\Visual Studio Code\DesafioRPG\obj\Debug\net6.0\ref\DesafioRPG.dll
+D:\Visual Studio Code\DesafioRPG\obj\Debug\net6.0\DesafioRPG.pdb
+D:\Visual Studio Code\DesafioRPG\obj\Debug\net6.0\DesafioRPG.genruntimeconfig.cache
